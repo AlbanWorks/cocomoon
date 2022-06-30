@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Faustina:wght@300&display=swap');
+:root{
+    /* Colores de la tienda (diseños basados en 3 colores complementarios) */
+    
+    --color1: #9F6D56;
+    --color1Light: #bd8e79;
+    --color1Dark: #8d553c;
+
+    --color2: #DFB794;
+    --color2Light: #eeddce;
+    --color2Dark: #d4a77f;
+
+    --color3: #cc5a25;
+    --color3Light: #ee753d;
+    --color3Dark: #b93d03;
+  
+    /* Fuentes de la tienda */ 
+
+  
+    font-family: 'Faustina', serif;/* Fuente 1 por defecto */ 
+    letter-spacing: .11rem;
+    --clearFont:'verdana'; /* Fuente que se deje leer */ 
+    --FancyFont:'sans-serif'; /* Fuente Artistica */ 
+  }
+  
