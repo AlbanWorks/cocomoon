@@ -5,7 +5,7 @@ de la base de datos solo tenga que modificar este archivo.
 
 //firestore
 
-const owner = "uP74kyu5y5MyiBh3OtTt13hIkD82"
+const owner = "rdmaAG4VV3R2Onod534OHJ4wmMF2"
 
 const owner_route = () => { return `${owner}` }
 
